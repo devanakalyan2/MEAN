@@ -1,0 +1,23 @@
+{
+  "name": "count_requests",
+  "version": "1.0.0",
+  "description": "make a call from client and count number of requests and store in db",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "count",
+    "requests",
+    "store"
+  ],
+  "author": "kalyan",
+  "license": "MIT",
+  "dependencies": {
+    
+    "express": "^4.16.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.33",
+    "q": "^1.5.1"
+  }
+}
